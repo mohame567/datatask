@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+flask-bcrypt
+flask-jwt-extended
+pymysql
+pyotp
+qrcode[pil]
+python-dotenv
